@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@android:drawable/ic_menu_search"
+        android:title="Menu_1"
+        android:id="@+id/id_menu_search_1"
+
+        />
+    <item android:icon="@android:drawable/ic_menu_search"
+        android:title="Menu_2"
+        android:id="@+id/id_menu_search_2"
+
+        />
+    <item android:icon="@android:drawable/ic_menu_search"
+        android:title="Menu_3"
+        android:id="@+id/id_menu_search_3"
+
+        />
+
+</menu>
